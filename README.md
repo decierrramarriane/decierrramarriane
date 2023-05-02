@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @decierrramarriane
 - 👀 I’m interested in books, AI fields, astronomyyy
-- 🌱 I’m currently learning CSS and Javascript
+- 🌱 I’m currently learning CSS and JavaScript
 - 📫 How to reach me - decierramarriane12@gmail.com
 
 <!---

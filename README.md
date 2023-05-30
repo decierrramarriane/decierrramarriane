@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently study on **JavaScript**
 
-- 🌱 I’m currently learning **Frameworks**
-
 - 👨‍💻 All of my projects are available at [https://github.com/decierrramarriane](https://github.com/decierrramarriane)
 
 - 📫 How to reach me **decierramarriane12@gmail.com**

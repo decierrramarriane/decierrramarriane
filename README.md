@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently study on **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/decierrramarriane](https://github.com/decierrramarriane)
+- 👨‍💻 All of my projects are available at [[https://github.com/decierrramarriane](https://github.com/decierrramarriane](https://www.facebook.com/decierramarriane)]]
 
 - 📫 How to reach me **decierramarriane12@gmail.com**
 

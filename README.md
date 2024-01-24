@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Marriane👋</h1>
-<h3 align="center">study, repeat.</h3>
+<h3 align="center">...</h3>
 
 <img src="![image](https://github.com/decierrramarriane/decierramarriane/assets/131222700/3d01202a-2056-43ba-8fa7-b5aef27bc2e8)" align="right" width="400">
 

@@ -4,13 +4,11 @@
 <img src="![image](https://github.com/decierrramarriane/decierramarriane/assets/131222700/3d01202a-2056-43ba-8fa7-b5aef27bc2e8)" align="right" width="400">
 
 
-- 🔭 I’m currently study on **Everything!**
+- 🔭 I’m currently study on **NextJs**
 
 - 👨‍💻 All of my projects are available at [[https://github.com/decierrramarriane]]
 
 - 📫 How to reach me **decierramarriane12@gmail.com**
-
-- ⚡ Fun fact **coke is my medicine**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
